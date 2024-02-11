@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Chavidu Attanayaka , a Software Engineering undergrad with a knack for turning caffeine into code.  <br>When I'm not debugging or caffeinating, you'll often find me trekking through forests, scaling mountains or contemplating the mysteries of the universe while staring at my screen. <br>-one pixel at a time! 😉
+Hey there! I'm Chavidu Attanayaka , a Software Engineering undergrad with a knack for turning caffeine into code.  <br>When I'm not debugging or caffeinating, you'll often find me trekking through forests, scaling mountains or contemplating the mysteries of the universe. <br>-one pixel at a time! 😉
 
 
 # 💻 Tech Stack:
