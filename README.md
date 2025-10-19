@@ -1,5 +1,4 @@
-# About Me:
-Hey there! I'm Chavidu Attanayake , a Software Engineering undergrad who turns ideas into seamless apps!!
+Hey there! I'm Chavidu, a Software Engineering undergrad who turns ideas into seamless apps!!
 
 
 <h3 align="left">Languages and Tools:</h3>
